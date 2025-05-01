@@ -1,0 +1,176 @@
+{
+    "Banner": [
+        {
+            "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897670/banner1_m1ujkq.png"
+        },
+        {
+            "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897671/banner2_nhxtfd.png"
+        }
+    ],
+    "Category": [
+        {
+            "Id": 0,
+            "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897672/cat1_axlnep.png",
+            "Name": "Beach"
+        },
+        {
+            "Id": 1,
+            "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897673/cat2_hhr8ya.png",
+            "Name": "Camp"
+        },
+        {
+            "Id": 2,
+            "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897673/cat3_xisw9t.png",
+            "Name": "Jungle"
+        },
+        {
+            "Id": 3,
+            "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897673/cat4_pa7wb0.png",
+            "Name": "Desert"
+        },
+        {
+            "Id": 4,
+            "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897673/cat5_gxiy2z.png",
+            "Name": "Mountain"
+        },
+        {
+            "Id": 5,
+            "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897673/cat5_gxiy2z.png",
+            "Name": "Mountain"
+        }
+    ],
+    "Item": [
+        {
+            "address": "Hawaie, USA",
+            "bed": 2,
+            "dateTour": "17 June 2024",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+            "distance": "30Km",
+            "duration": "3D / 2N",
+            "pic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897640/location_1_psppir.jpg",
+            "price": 900,
+            "score": 4.5,
+            "timeTour": "8:00 PM",
+            "title": "Band Island Beach",
+            "tourGuideName": "Tina Anderson",
+            "tourGuidePhone": "001123456789",
+            "tourGuidePic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897672/profile_wxamui.png"
+        },
+        {
+            "address": "Lombok,Indonesia",
+            "bed": 1,
+            "dateTour": "18 June 2024",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+            "distance": "20Km",
+            "duration": "3D / 2N",
+            "pic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897640/location_3_td4yp6.jpg",
+            "price": 800,
+            "score": 4.6,
+            "timeTour": "4:00 PM",
+            "title": "Komodo Island",
+            "tourGuideName": "Tina Anderson",
+            "tourGuidePhone": "001123456789",
+            "tourGuidePic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897672/profile_wxamui.png"
+        },
+        {
+            "address": "LosAngles, USA",
+            "bed": 2,
+            "dateTour": "20 July 2024",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+            "distance": "90Km",
+            "duration": "2D / 1N",
+            "pic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897641/location_4_zxcxts.jpg",
+            "price": 750,
+            "score": 4.9,
+            "timeTour": "2:00 PM",
+            "title": "Kelingking Beach",
+            "tourGuideName": "Tina Anderson",
+            "tourGuidePhone": "001123456789",
+            "tourGuidePic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897672/profile_wxamui.png"
+        },
+        {
+            "address": "Bali, Indonesia",
+            "bed": 3,
+            "dateTour": "10 July 2024",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+            "distance": "200Km",
+            "duration": "1D / 1N",
+            "pic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897640/location_3_td4yp6.jpg",
+            "price": 600,
+            "score": 4.1,
+            "timeTour": "11:00 PM",
+            "title": "Nusa Penida",
+            "tourGuideName": "Tina Anderson",
+            "tourGuidePhone": "001123456789",
+            "tourGuidePic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897672/profile_wxamui.png"
+        }
+    ],
+    "Location": [
+        {
+            "Id": 0,
+            "loc": "LA california"
+        },
+        {
+            "Id": 1,
+            "loc": "NY manhattan"
+        },
+        {
+            "Id": 2,
+            "loc": "Bali, Indonesia"
+        },
+        {
+            "Id": 3,
+            "loc": "Lombok,Indonesia"
+        }
+    ],
+    "Popular": [
+        {
+            "address": "Bali, Indonesia",
+            "bed": 3,
+            "dateTour": "10 July 2024",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+            "distance": "200Km",
+            "duration": "1D / 1N",
+            "pic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897643/location_6_carlrn.jpg",
+            "price": 600,
+            "score": 4.1,
+            "timeTour": "11:00 PM",
+            "title": "Nusa Penida",
+            "tourGuideName": "Tina Anderson",
+            "tourGuidePhone": "001123456789",
+            "tourGuidePic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897672/profile_wxamui.png"
+        },
+        {
+            "address": "LosAngles, USA",
+            "bed": 2,
+            "dateTour": "20 July 2024",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+            "distance": "90Km",
+            "duration": "2D / 1N",
+            "pic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897650/location_2_bx8zmk.jpg",
+            "price": 750,
+            "score": 4.9,
+            "timeTour": "2:00 PM",
+            "title": "Kelingking Beach",
+            "tourGuideName": "Tina Anderson",
+            "tourGuidePhone": "001123456789",
+            "tourGuidePic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897672/profile_wxamui.png"
+        },
+        {
+            "address": "Hawaie, USA",
+            "bed": 2,
+            "dateTour": "17 June 2024",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+            "distance": "30Km",
+            "duration": "3D / 2N",
+            "pic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897651/location_7_dxpg9m.jpg",
+            "price": 900,
+            "score": 4.5,
+            "timeTour": "8:00 PM",
+            "title": "Band Island Beach",
+            "tourGuideName": "Tina Anderson",
+            "tourGuidePhone": "001123456789",
+            "tourGuidePic": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744897672/profile_wxamui.png"
+        }
+    ]
+}
