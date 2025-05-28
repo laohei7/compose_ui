@@ -1,0 +1,114 @@
+{
+  "Trips": [
+    {
+      "companyLogo": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1747375671/DeltaAirline_f3t1du.png",
+      "companyName": "Delta Airlines",
+      "arriveTime": "2h 45m",
+      "date": "24 aug,2024",
+      "from": "NewYork",
+      "fromShort": "JFK",
+      "price": 170.6,
+      "time": "12:54",
+      "to": "LosAngles",
+	"score":4.5,
+      "toShort": "LAX"
+    },
+    {
+      "companyLogo": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1747375672/americalAirline_d07sk2.png",
+      "companyName": "American Airlines",
+      "arriveTime": "2h 30m",
+      "date": "24 aug,2024",
+      "from": "NewYork",
+      "fromShort": "JFK",
+      "price": 169.1,
+      "time": "18:20",
+      "to": "LosAngles",
+"score":4.5,
+      "toShort": "LAX"
+    },
+    {
+      "companyLogo": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1747375672/southwestAirline_roiawd.png",
+      "companyName": "Southwest Airlines",
+      "arriveTime": "2h 45m",
+      "date": "24 aug,2024",
+      "from": "NewYork",
+      "fromShort": "JFK",
+      "numberSeat": 91,
+      "price": 159.1,
+      "time": "22:45",
+      "to": "LosAngles",
+	"score":4.5,
+      "toShort": "LAX"
+    },
+    {
+      "companyLogo": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1747375672/unitedAirline_agji5n.png",
+      "companyName": "United Airlines",
+      "arriveTime": "2h 40m",
+      "date": "24 aug,2024",
+      "from": "NewYork",
+      "fromShort": "JFK",
+      "price": 157.35,
+      "time": "23:05",
+      "to": "LosAngles",
+	"score":4.5,
+      "toShort": "LAX"
+    }
+  ],
+  "RecommendedPlace": [
+    {
+      "title": "Royal Beach",
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1747322410/place1_giv5l0.jpg"
+    },
+  {
+      "title": "Royal Coffee shop",
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1747322410/place2_ulk35i.jpg"
+    },
+  {
+      "title": "Royal Beach",
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1747322410/place3_zu8vvm.jpg"
+    }
+  ]
+,
+  "Locations": [
+    {
+      "Id": 0,
+      "Name": "LosAngles"
+    },
+    {
+      "Id": 1,
+      "Name": "NewYork"
+    },
+    {
+      "Id": 2,
+      "Name": "San Francisco"
+    },
+    {
+      "Id": 3,
+      "Name": "Washington, D.C"
+    },
+    {
+      "Id": 4,
+      "Name": "Boston"
+    },
+    {
+      "Id": 5,
+      "Name": "Philadelphia"
+    },
+    {
+      "Id": 6,
+      "Name": "Chicago"
+    },
+    {
+      "Id": 7,
+      "Name": "Las Vegas"
+    },
+    {
+      "Id": 8,
+      "Name": "Miami"
+    },
+    {
+      "Id": 9,
+      "Name": "Seattle"
+    }
+  ]
+}
