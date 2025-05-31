@@ -1,0 +1,120 @@
+{
+  "Banner": [
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746091249/banner_1_kkkx8z.png"
+    },
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746098432/banner_2_trmkoe.png"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "title": "All"
+    },
+    {
+      "id": 1,
+      "title": "Cream"
+    },
+    {
+      "id": 2,
+      "title": "Facial Wash"
+    },
+    {
+      "id": 3,
+      "title": "Skin Care"
+    },
+    {
+      "id": 4,
+      "title": "Shampoo"
+    }
+  ],
+  "Items": [
+    {
+      "categoryId": "1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746098536/1_1_db56nv.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746098532/1_4_vdstgc.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746098529/1_2_rn39ju.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746098528/1_6_oy0v3m.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746098534/1_5_oqs6qg.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746098528/1_7_zxj5nd.jpg"
+      ],
+      "price": 95,
+      "rating": 4.6,
+      "showRecommended": true,
+      "title": " Aqualia Thermal Spa Effect"
+    },
+    {
+      "categoryId": "1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746101767/2_1_rsdbx8.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746101762/2_2_f0acyv.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746101762/2_3_f42mif.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746101756/2_4_bj5g62.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746101758/2_5_xcucgv.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746101761/2_6_nyctsa.jpg"
+      ],
+      "price": 110,
+      "rating": 4.8,
+      "showRecommended": true,
+      "title": "Thermal Rehydrating Gel Cream"
+    },
+    {
+      "categoryId": "1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103346/3_1_ebbfz0.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103345/3_2_qvb8wq.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103345/3_3_d1mkzb.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103343/3_4_deamzz.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103344/3_5_pexent.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103346/3_6_dwz1o4.jpg"
+      ],
+      "price": 95,
+      "rating": 4.6,
+      "showRecommended": true,
+      "title": " Aqualia Thermal Spa Effect"
+    },
+    {
+      "categoryId": "1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103428/4_1_kt0zl4.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103425/4_2_h2wrrb.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103424/4_3_cbc37b.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103423/4_4_avvf36.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103425/4_5_yju9y6.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103427/4_6_i4ixbi.jpg"
+      ],
+      "price": 134,
+      "rating": 4.8,
+      "showRecommended": true,
+      "title": " Aqualia Thermal Spa Effect"
+    },
+    {
+      "categoryId": "1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103494/5_oj79ed.png"
+      ],
+      "price": 95,
+      "rating": 4.6,
+      "showRecommended": false,
+      "title": "Aqualia Thermal Spa Effect"
+    },
+    {
+      "categoryId": "1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1746103493/6_mkbqka.png"
+      ],
+      "price": 95,
+      "rating": 4.7,
+      "showRecommended": false,
+      "title": "Cream"
+    }
+  ]
+}
