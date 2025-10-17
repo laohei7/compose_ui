@@ -1,0 +1,52 @@
+{
+  "profile": {
+    "profileName": "Pitter Jackson",
+    "profileImage": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744363537/profile_w6agov.png",
+    "totalbalance": "$ 451,654.54",
+    "income": "$ 1,549.46",
+    "banner": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1759495317/banner_oykkm9.png",
+    "outcome": "$ 1,134.54",
+    "friend": [
+      {
+        "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744363536/friend_4_pdf8xk.png",
+        "name": "Sara"
+      },
+      {
+        "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744363536/friend_2_crteje.png",
+        "name": "Kevin"
+      },
+      {
+        "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744363538/friend_3_xwxdqf.png",
+        "name": "Emmy"
+      },
+      {
+        "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744363537/friend_1_hnnnad.png",
+        "name": "Jack"
+      },
+      {
+        "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744363632/friend_5_fwlp5s.jpg",
+        "name": "Maddie"
+      }
+    ],
+    "transaction": [
+      {
+        "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744565096/transaction_1_bxigmt.png",
+        "name": "Resturant",
+        "date": "17 jun 2024 19:15",
+        "amount": "-573.12"
+      },
+      {
+        "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744565096/transaction_2_xaxhco.png",
+        "name": "David William",
+        "date": "18 jun 2024 10:15",
+        "amount": "+253.21"
+      },
+      {
+        "imageUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1744565096/transaction_3_ele8bm.png",
+        "name": "McDonald",
+        "date": "18 jun 2024 22:15",
+        "amount": "-120.12"
+      }
+    ]
+  }
+}
